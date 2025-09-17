@@ -1,2 +1,2 @@
 # git-up
-This repository contains the instructions for the Get Up with GitHub assignment.
+This repository contains the instructions for the Get Up with GitHub assignment.**By Ivy**
